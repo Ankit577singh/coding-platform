@@ -1,0 +1,12 @@
+# dependencies
+/node_modules/
+
+# build output
+/dist/
+/build/
+/.parcel-cache/
+
+# misc
+.env
+.DS_Store
+*.log
